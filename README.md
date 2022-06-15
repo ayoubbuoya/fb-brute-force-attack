@@ -10,3 +10,5 @@
 #### 2)install firefox geckodriver from (https://github.com/mozilla/geckodriver/releases) and move it into /bin folder.
 #### 3)sudo chmod +x /bin/geckodriver
 #### 4)python3 brute-fb.py
+
+#### If you want see what happens, just remove **gui = "no"** in Facebook() from brute-fb.py script.   
