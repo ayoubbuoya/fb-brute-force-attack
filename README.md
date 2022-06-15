@@ -6,6 +6,6 @@
 
 ## To run it :     
 #### 1)pip install selenium     
-#### 2)install firefox geckodriver from () and put it into /bin folder.
+#### 2)install firefox geckodriver from (https://github.com/mozilla/geckodriver/releases) and put it into /bin folder.
 #### 3)chmod +x geckodriver
 #### 4)python3 brute-fb.py
